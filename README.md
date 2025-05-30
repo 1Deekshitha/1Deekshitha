@@ -45,7 +45,7 @@ I enjoy building real-world software solutions — from Android apps and web pla
 ## 💼 Experience
 
 - 🛰 **URSC – ISRO (Feb–Mar 2025)**  
-  Developed an internal tool for procedure documentation using HTML, CSS, JS, MySQL, and jsPDF.
+  Developed an internal tool for procedure documentation.
 
 - 🤖 **AICTE Internship (Dec 2024 – Jan 2025)**  
   Built a CNN model for image classification with TensorFlow and Google Colab.
